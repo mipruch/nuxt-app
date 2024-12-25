@@ -1,5 +1,5 @@
 <template>
 	<div>
-		<h1>Nuxt Aplikace</h1>
+		<h1>Updatovaná Nuxt Aplikace</h1>
 	</div>
 </template>
